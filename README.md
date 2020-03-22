@@ -5,7 +5,7 @@ Reactのチュートリアル
 ```
 npm install
 ```
-でnode_moduleをインストール  
+でnode_modulesをインストール  
 
 ```
 npm start
