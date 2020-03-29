@@ -3,10 +3,12 @@ Reactのチュートリアル
 
 ## 使い方
 ```
-npm install
+$ npm install --save-dev webpack webpack-cli webpack-dev-server
+$ npm install -g webpack webpack-cli
+$ npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader
+$ npm install --save-dev react react-dom
 ```
-でnode_modulesをインストール  
-
+webpackに関するライブラリのインストール
 ```
 npm start
 ```
